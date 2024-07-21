@@ -1,0 +1,83 @@
+.logo{
+    text-align: center;
+}
+
+.the{
+    margin-bottom: 0px;
+}
+
+.analog{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.specialist{
+    margin-top: 0px;
+}
+
+table{
+    border-top: 2px solid;
+    border-bottom: 1px solid;
+    width: 100%;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.col{
+    float: left;
+    width: 33.33%;
+    padding: 3px;
+}
+
+.col img{
+    height: 300px;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+/* .images{
+    width: 100%;
+    height: 100%;
+}
+
+
+.img1{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin: 0px;
+}
+
+
+.img2{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin: 0px;
+} 
+
+
+.img3{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    margin: 0px;
+} */
